@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif )">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
 - 🔭 I’m currently working on [Hospital management system](https://nitishranajee.000webhostapp.com/HMS/)
