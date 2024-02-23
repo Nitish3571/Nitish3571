@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Hospital management system](https://nitishranajee.000webhostapp.com/HMS/)
 
-- 🌱 I’m currently learning **javascript , react**
+- 🌱 I’m currently learning **javascript , react native**
 
-- 💬 Ask me about **C ,C++ ,HTML ,CSS ,PHP ,MYSQLI , CODEIGNITOR ,BOOTSTRAP**
+- 💬 Ask me about **C ,C++ ,HTML ,CSS ,PHP ,MYSQLI , LARAVEL , REACT NATIVE ,BOOTSTRAP**
 
 - 📫 How to reach me **nitishkumarnkp7070@gmail.com**
 
