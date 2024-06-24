@@ -6,9 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
-- 🔭 I’m currently working on [Mobile App And Software]
+- 🔭 I’m currently working on [Education Website And Software]
 
-- 🌱 I’m currently learning **javascript , react native**
+- 🌱 I’m currently learning **javascript , react js and tailwind css**
 
 - 💬 Ask me about **C ,C++ ,HTML ,CSS ,PHP ,MYSQLI , LARAVEL , REACT NATIVE ,BOOTSTRAP**
 
