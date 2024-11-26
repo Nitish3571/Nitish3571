@@ -6,11 +6,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
-- 🔭 I’m currently working on [Education Website And Software]
+- 🔭 I’m currently working on [Social Community App And Software]
 
-- 🌱 I’m currently learning **javascript , react js and tailwind css**
+- 🌱 I’m currently learning **javascript , react js and typescript**
 
-- 💬 Ask me about **C ,C++ ,HTML ,CSS ,PHP ,MYSQLI , LARAVEL , REACT NATIVE ,BOOTSTRAP**
+- 💬 Ask me about **LARAVEL, REACT JS, INERTIA JS, HTML, CSS, PHP, MYSQLI, REACT NATIVE, BOOTSTRAP, WORDPRESS, SHOPIFY**
 
 - 📫 How to reach me **nitishkumarnkp7070@gmail.com**
 
